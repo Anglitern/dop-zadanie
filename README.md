@@ -5,8 +5,10 @@
 
 
 Состоит из двух репозиториев:
-* Клиентская часть: https://gitlab.com/vecindexer/vecindexerclient
-* Серверная часть: https://gitlab.com/vecindexer/vecindexercpp
+* [Клиентская часть](https://gitlab.com/vecindexer/vecindexerclient)
+* [Серверная часть](https://gitlab.com/vecindexer/vecindexercpp)
+
+## [Документация](https://exactusvectorindex.readthedocs.io/)
 
 
 ### Благодарности
